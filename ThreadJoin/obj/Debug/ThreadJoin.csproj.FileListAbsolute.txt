@@ -1,0 +1,7 @@
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\ThreadJoin\bin\Debug\ThreadJoin.exe.config
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\ThreadJoin\bin\Debug\ThreadJoin.exe
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\ThreadJoin\bin\Debug\ThreadJoin.pdb
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\ThreadJoin\obj\Debug\ThreadJoin.csproj.CoreCompileInputs.cache
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\ThreadJoin\obj\Debug\ThreadJoin.exe
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\ThreadJoin\obj\Debug\ThreadJoin.pdb
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\ThreadJoin\obj\Debug\ThreadJoin.csprojAssemblyReference.cache
