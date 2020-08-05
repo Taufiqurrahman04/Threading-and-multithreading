@@ -1,0 +1,10 @@
+D:\My_data\Sample Code\C#\ThreadingDanMultithreading\BackgroundWorkerTest\bin\Debug\BackgroundWorkerTest.exe.config
+D:\My_data\Sample Code\C#\ThreadingDanMultithreading\BackgroundWorkerTest\bin\Debug\BackgroundWorkerTest.exe
+D:\My_data\Sample Code\C#\ThreadingDanMultithreading\BackgroundWorkerTest\bin\Debug\BackgroundWorkerTest.pdb
+D:\My_data\Sample Code\C#\ThreadingDanMultithreading\BackgroundWorkerTest\obj\Debug\BackgroundWorkerTest.csprojAssemblyReference.cache
+D:\My_data\Sample Code\C#\ThreadingDanMultithreading\BackgroundWorkerTest\obj\Debug\BackgroundWorkerTest.Form1.resources
+D:\My_data\Sample Code\C#\ThreadingDanMultithreading\BackgroundWorkerTest\obj\Debug\BackgroundWorkerTest.Properties.Resources.resources
+D:\My_data\Sample Code\C#\ThreadingDanMultithreading\BackgroundWorkerTest\obj\Debug\BackgroundWorkerTest.csproj.GenerateResource.cache
+D:\My_data\Sample Code\C#\ThreadingDanMultithreading\BackgroundWorkerTest\obj\Debug\BackgroundWorkerTest.csproj.CoreCompileInputs.cache
+D:\My_data\Sample Code\C#\ThreadingDanMultithreading\BackgroundWorkerTest\obj\Debug\BackgroundWorkerTest.exe
+D:\My_data\Sample Code\C#\ThreadingDanMultithreading\BackgroundWorkerTest\obj\Debug\BackgroundWorkerTest.pdb
