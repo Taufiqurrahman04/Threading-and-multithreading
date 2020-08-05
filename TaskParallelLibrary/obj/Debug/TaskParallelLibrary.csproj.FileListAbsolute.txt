@@ -1,0 +1,7 @@
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\TaskParallelLibrary\bin\Debug\TaskParallelLibrary.exe.config
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\TaskParallelLibrary\bin\Debug\TaskParallelLibrary.exe
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\TaskParallelLibrary\bin\Debug\TaskParallelLibrary.pdb
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\TaskParallelLibrary\obj\Debug\TaskParallelLibrary.csprojAssemblyReference.cache
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\TaskParallelLibrary\obj\Debug\TaskParallelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\TaskParallelLibrary\obj\Debug\TaskParallelLibrary.exe
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\TaskParallelLibrary\obj\Debug\TaskParallelLibrary.pdb
