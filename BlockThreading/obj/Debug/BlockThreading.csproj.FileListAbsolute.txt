@@ -1,0 +1,7 @@
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\BlockThreading\bin\Debug\BlockThreading.exe.config
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\BlockThreading\bin\Debug\BlockThreading.exe
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\BlockThreading\bin\Debug\BlockThreading.pdb
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\BlockThreading\obj\Debug\BlockThreading.csproj.CoreCompileInputs.cache
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\BlockThreading\obj\Debug\BlockThreading.exe
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\BlockThreading\obj\Debug\BlockThreading.pdb
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\BlockThreading\obj\Debug\BlockThreading.csprojAssemblyReference.cache
