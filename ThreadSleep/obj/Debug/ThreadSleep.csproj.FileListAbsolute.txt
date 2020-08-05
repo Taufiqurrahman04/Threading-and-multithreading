@@ -1,0 +1,7 @@
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\ThreadSleep\bin\Debug\ThreadSleep.exe.config
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\ThreadSleep\bin\Debug\ThreadSleep.exe
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\ThreadSleep\bin\Debug\ThreadSleep.pdb
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\ThreadSleep\obj\Debug\ThreadSleep.csprojAssemblyReference.cache
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\ThreadSleep\obj\Debug\ThreadSleep.csproj.CoreCompileInputs.cache
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\ThreadSleep\obj\Debug\ThreadSleep.exe
+C:\Users\Taufiqurrahman\source\repos\ThreadingDanMultithreading\ThreadSleep\obj\Debug\ThreadSleep.pdb
